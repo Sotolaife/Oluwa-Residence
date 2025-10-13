@@ -4,42 +4,42 @@
       "id": "hero",
       "description": "A luxurious modern house with a pool at dusk",
       "imageUrl": "https://picsum.photos/seed/luxury-home/1920/1080",
-      "imageHint": "luxury house"
+      "imageHint": "luxury villa"
     },
     {
       "id": "property1-1",
       "description": "Living room of a modern villa",
-      "imageUrl": "https://picsum.photos/seed/villa-livingroom/800/600",
-      "imageHint": "modern living-room"
+      "imageUrl": "https://picsum.photos/seed/villa-exterior/800/600",
+      "imageHint": "modern architecture"
     },
     {
       "id": "property1-2",
       "description": "Kitchen of a modern villa",
-      "imageUrl": "https://picsum.photos/seed/villa-kitchen/800/600",
-      "imageHint": "modern kitchen"
+      "imageUrl": "https://picsum.photos/seed/villa-pool/800/600",
+      "imageHint": "house pool"
     },
     {
       "id": "property1-3",
       "description": "Bedroom of a modern villa",
-      "imageUrl": "https://picsum.photos/seed/villa-bedroom/800/600",
-      "imageHint": "modern bedroom"
+      "imageUrl": "https://picsum.photos/seed/villa-garden/800/600",
+      "imageHint": "modern garden"
     },
     {
       "id": "property2-1",
       "description": "Exterior of a chic apartment building",
-      "imageUrl": "https://picsum.photos/seed/penthouse-exterior/800/600",
-      "imageHint": "apartment building"
+      "imageUrl": "https://picsum.photos/seed/luxury-apartment/800/600",
+      "imageHint": "luxury apartment"
     },
     {
       "id": "property2-2",
       "description": "Penthouse balcony view",
-      "imageUrl": "https://picsum.photos/seed/penthouse-view/800/600",
-      "imageHint": "city skyline"
+      "imageUrl": "https://picsum.photos/seed/penthouse-balcony/800/600",
+      "imageHint": "penthouse view"
     },
     {
       "id": "property3-1",
       "description": "Front facade of a suburban family house",
-      "imageUrl": "https://picsum.photos/seed/family-home/800/600",
+      "imageUrl": "https://picsum.photos/seed/lekki-house/800/600",
       "imageHint": "suburban house"
     },
     {
@@ -76,7 +76,7 @@
       "id": "blog1",
       "description": "Interior design of a living room",
       "imageUrl": "https://picsum.photos/seed/luxury-interior/1200/800",
-      "imageHint": "interior design"
+      "imageHint": "luxury interior"
     },
     {
       "id": "blog2",
