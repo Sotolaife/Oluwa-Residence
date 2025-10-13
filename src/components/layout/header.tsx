@@ -8,6 +8,7 @@ import { useState } from 'react';
 import { ThemeToggle } from '@/components/ui/theme-toggle';
 
 const navLinks = [
+  { href: '/', label: 'Home' },
   { href: '/listings', label: 'Listings' },
   { href: '/about', label: 'About Us' },
   { href: '/agents', label: 'Agents' },
