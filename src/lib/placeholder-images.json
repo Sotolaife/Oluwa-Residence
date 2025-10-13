@@ -3,91 +3,91 @@
     {
       "id": "hero",
       "description": "A luxurious modern house with a pool at dusk",
-      "imageUrl": "https://picsum.photos/seed/hero/1920/1080",
+      "imageUrl": "https://picsum.photos/seed/luxury-home/1920/1080",
       "imageHint": "luxury house"
     },
     {
       "id": "property1-1",
       "description": "Living room of a modern villa",
-      "imageUrl": "https://picsum.photos/seed/p11/800/600",
+      "imageUrl": "https://picsum.photos/seed/villa-livingroom/800/600",
       "imageHint": "modern living-room"
     },
     {
       "id": "property1-2",
       "description": "Kitchen of a modern villa",
-      "imageUrl": "https://picsum.photos/seed/p12/800/600",
+      "imageUrl": "https://picsum.photos/seed/villa-kitchen/800/600",
       "imageHint": "modern kitchen"
     },
     {
       "id": "property1-3",
       "description": "Bedroom of a modern villa",
-      "imageUrl": "https://picsum.photos/seed/p13/800/600",
+      "imageUrl": "https://picsum.photos/seed/villa-bedroom/800/600",
       "imageHint": "modern bedroom"
     },
     {
       "id": "property2-1",
       "description": "Exterior of a chic apartment building",
-      "imageUrl": "https://picsum.photos/seed/p21/800/600",
+      "imageUrl": "https://picsum.photos/seed/penthouse-exterior/800/600",
       "imageHint": "apartment building"
     },
     {
       "id": "property2-2",
       "description": "Penthouse balcony view",
-      "imageUrl": "https://picsum.photos/seed/p22/800/600",
+      "imageUrl": "https://picsum.photos/seed/penthouse-view/800/600",
       "imageHint": "city skyline"
     },
     {
       "id": "property3-1",
       "description": "Front facade of a suburban family house",
-      "imageUrl": "https://picsum.photos/seed/p31/800/600",
+      "imageUrl": "https://picsum.photos/seed/family-home/800/600",
       "imageHint": "suburban house"
     },
     {
       "id": "agent1",
       "description": "Portrait of a real estate agent",
-      "imageUrl": "https://picsum.photos/seed/agent1/200/200",
+      "imageUrl": "https://picsum.photos/seed/realtor-woman/200/200",
       "imageHint": "professional woman"
     },
     {
       "id": "agent2",
       "description": "Portrait of a real estate agent",
-      "imageUrl": "https://picsum.photos/seed/agent2/200/200",
+      "imageUrl": "https://picsum.photos/seed/realtor-man/200/200",
       "imageHint": "professional man"
     },
     {
       "id": "testimonial1",
-      "description": "Happy client portrait",
-      "imageUrl": "https://picsum.photos/seed/t1/100/100",
-      "imageHint": "happy person"
+      "description": "Happy client portrait of a family",
+      "imageUrl": "https://picsum.photos/seed/happy-family/100/100",
+      "imageHint": "happy family"
     },
     {
       "id": "testimonial2",
-      "description": "Happy client portrait",
-      "imageUrl": "https://picsum.photos/seed/t2/100/100",
-      "imageHint": "smiling person"
+      "description": "Happy client portrait of a man",
+      "imageUrl": "https://picsum.photos/seed/smiling-man/100/100",
+      "imageHint": "smiling man"
     },
     {
       "id": "testimonial3",
-      "description": "Happy client portrait",
-      "imageUrl": "https://picsum.photos/seed/t3/100/100",
-      "imageHint": "satisfied person"
+      "description": "Happy client portrait of a woman",
+      "imageUrl": "https://picsum.photos/seed/satisfied-woman/100/100",
+      "imageHint": "satisfied woman"
     },
     {
       "id": "blog1",
       "description": "Interior design of a living room",
-      "imageUrl": "https://picsum.photos/seed/blog1/1200/800",
+      "imageUrl": "https://picsum.photos/seed/luxury-interior/1200/800",
       "imageHint": "interior design"
     },
     {
       "id": "blog2",
       "description": "Architectural drawing on a desk",
-      "imageUrl": "https://picsum.photos/seed/blog2/1200/800",
-      "imageHint": "architecture blueprint"
+      "imageUrl": "https://picsum.photos/seed/lagos-skyline/1200/800",
+      "imageHint": "city skyline"
     },
     {
       "id": "about-team",
       "description": "A diverse and professional team in a modern office",
-      "imageUrl": "https://picsum.photos/seed/team/800/600",
+      "imageUrl": "https://picsum.photos/seed/real-estate-team/800/600",
       "imageHint": "professional team"
     }
   ]
