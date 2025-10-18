@@ -8,6 +8,7 @@ import { Button } from '@/components/ui/button';
 import { useToast } from '@/hooks/use-toast';
 import Image from 'next/image';
 import { Download, Loader2, UploadCloud } from 'lucide-react';
+import { Label } from '@/components/ui/label';
 
 export default function ImageCompressorPage() {
   const [originalImage, setOriginalImage] = useState<string | null>(null);
@@ -99,7 +100,7 @@ export default function ImageCompressorPage() {
               <h3 className="font-semibold text-lg">Original Image</h3>
               {originalImage ? (
                 <div className="relative border rounded-lg p-2 aspect-video flex items-center justify-center bg-muted/20">
-                  <Image src={originalImage} alt="Original" layout="fill" objectFit="contain" />
+                  <Image src={originalImage} alt="Original" fill className="object-contain" />
                   <div className="absolute bottom-2 right-2 bg-background/80 px-2 py-1 rounded-md text-sm font-semibold">{getFileSize(originalImage)}</div>
                 </div>
               ) : (
@@ -116,7 +117,7 @@ export default function ImageCompressorPage() {
                 </div>
               ) : compressedImage ? (
                 <div className="relative border rounded-lg p-2 aspect-video flex items-center justify-center bg-muted/20">
-                  <Image src={compressedImage} alt="Compressed" layout="fill" objectFit="contain" />
+                  <Image src={compressedImage} alt="Compressed" fill className="object-contain" />
                   <div className="absolute bottom-2 right-2 bg-background/80 px-2 py-1 rounded-md text-sm font-semibold">{getFileSize(compressedImage)}</div>
                   <a href={compressedImage} download={`compressed-${originalImageFile?.name || 'image.jpg'}`}>
                     <Button variant="outline" size="icon" className="absolute top-2 right-2">

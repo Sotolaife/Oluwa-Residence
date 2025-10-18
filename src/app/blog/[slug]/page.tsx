@@ -48,7 +48,7 @@ export default function PostPage({ params }: { params: { slug: string } }) {
                     {post.title}
                 </h1>
                 <div className="mt-6 flex items-center justify-center gap-4">
-                    <Image src={post.author.avatarUrl} alt={post.author.name} width={48} height={48} className="rounded-full" />
+                    <Image src={post.author.avatarUrl} alt={post.author.name} width={48} height={48} className="rounded-full object-cover" />
                     <div>
                         <p className="font-semibold">{post.author.name}</p>
                         <p className="text-sm text-gray-300">{format(new Date(post.publishedAt), 'MMMM d, yyyy')}</p>

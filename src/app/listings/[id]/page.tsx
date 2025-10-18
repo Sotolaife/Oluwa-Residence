@@ -24,7 +24,7 @@ export default function PropertyDetailPage({ params }: { params: { id: string } 
               {property.images.map((img, index) => (
                 <CarouselItem key={index}>
                   <div className="relative aspect-video">
-                    <Image src={img.url} alt={img.alt} layout="fill" objectFit="cover" className="rounded-2xl" data-ai-hint={img.hint} />
+                    <Image src={img.url} alt={img.alt} fill className="object-cover rounded-2xl" data-ai-hint={img.hint} />
                   </div>
                 </CarouselItem>
               ))}
